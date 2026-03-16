@@ -2,7 +2,7 @@
 Author: Bob Schmitt
 Updated: 3/16/2026
 Language: en
-icon:     nsflogo100px.jpeg
+icon:     nsflogo100px.jpg
 link: https://github.com/bobschmitt-civicactions/nsftraining/blob/main/nsftraining-product.css
 -->
 
