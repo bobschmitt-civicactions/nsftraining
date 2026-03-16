@@ -1,14 +1,21 @@
+
 /* Applies to the entire body of the HTML document (except where overridden by more specific
 selectors). */
 body {
   margin: 25px !important;
-  background-color: #DDFDFD !important;
-  font-family: arial, sans-serif !important;
-  font-size: 1.2em !important;
+ font-family: arial, sans-serif !important;
+  font-size: 1.6em !important;
 }
 
-h1.lia-h1 {
-  font-size: 3em !important;
-  font-weight: normal !important;
-  margin-top: 10px !important;
+h1 {
+  font-family: arial, sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 7em !important;
+  color: steelblue;
+  margin-top: 15px !important;
 }
+
+/*.lia-slide__container {
+  background-color: #97f4f4 !important;
+}
+  */

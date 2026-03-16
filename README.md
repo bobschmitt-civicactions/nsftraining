@@ -70,24 +70,3 @@ Blake
 # PECASE/NMS, REU
 Including Search Directory of REU Sites
 > 
-# Find Funding
-More than 1 session. Include structure of funding programs
-
-# How To Apply
-Combine with Manage your Award
-
-# Manage Your Award
-this is just content from the policy office (less than 1 session)
-
-# Focus Areas
-Blake
-he can talk about the page buidling experience - combine with About
-
-# About
-Blake
-
-# News and Events
-
-# PECASE/NMS, REU
-Including Search Directory of REU Sites
-> 
