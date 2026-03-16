@@ -3,13 +3,13 @@ Author: Bob Schmitt
 Updated: 3/16/2026
 Language: en
 icon:     nsflogo100px.jpg
-link: https://github.com/bobschmitt-civicactions/nsftraining/blob/main/nsftraining-product.css
+link: nsftraining-product.css
 -->
 
-# Welcome
-This is the start of a Liascript course on orienting NSF.gov staff to the NSF.gov website, it's features, and how it works.
+--{{0}}--
 
-Liascript courses use markdown commands combined with tags (accessed via the icons in the editor above) to things like embed multimedia elements, add quizes, graphs, spreadsheets and custom applications.
+# Welcome
+This is the start of a Liascript course on orienting NSF.gov staff to the NSF.gov website, it's features, and how it works. Liascript courses use markdown commands combined with tags (accessed via the icons in the editor above) to things like embed multimedia elements, add quizes, graphs, spreadsheets and custom applications.
 
 <!-- style= "background-color: whitesmoke; padding: 10px;"-->
 Each course slide should consider discussing
@@ -25,6 +25,11 @@ Each course slide should consider discussing
 
 # Embedding Multimedia
 Liascript really likes .webm or .mp4 formatted videos. Haven't quite figured out how to retrieve external files yet.
+
+<!-- style= "background-color: tomato; padding: 10px;"-->
+
+File stored in my local git repo:
+!?[NSF Sample](/media/nsfsample.webm)
 
 <!-- style= "background-color: tomato; padding: 10px;"-->
 File called from YouTube:
@@ -44,6 +49,27 @@ https://app.mural.co/t/civicactions3117/m/civicactions3117/1747864926347/2ada6f0
 Directorates, NSF organization, stakeholders
 Go through site from home page and discuss links
 
+# Find Funding
+More than 1 session. Include structure of funding programs
+
+# How To Apply
+Combine with Manage your Award
+
+# Manage Your Award
+this is just content from the policy office (less than 1 session)
+
+# Focus Areas
+Blake
+he can talk about the page buidling experience - combine with About
+
+# About
+Blake
+
+# News and Events
+
+# PECASE/NMS, REU
+Including Search Directory of REU Sites
+> 
 # Find Funding
 More than 1 session. Include structure of funding programs
 
