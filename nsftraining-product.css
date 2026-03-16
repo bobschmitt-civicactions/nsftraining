@@ -1,16 +1,14 @@
-
 /* Applies to the entire body of the HTML document (except where overridden by more specific
 selectors). */
 body {
-  margin: 25px;
-  background-color: #DDFDFD;
-  font-family: arial, sans-serif;
-  font-size: 14px;
+  margin: 25px !important;
+  background-color: #DDFDFD !important;
+  font-family: arial, sans-serif !important;
+  font-size: 1.2em !important;
 }
 
-/* Applies to all <h1>...</h1> elements. */
-h1 {
-  font-size: 35px;
-  font-weight: normal;
-  margin-top: 5px;
+h1.lia-h1 {
+  font-size: 3em !important;
+  font-weight: normal !important;
+  margin-top: 10px !important;
 }
