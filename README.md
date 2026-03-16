@@ -1,3 +1,9 @@
+<!-- 
+Author: Bob Schmitt
+Updated: 3/16/2026
+link: "https://github.com/bobschmitt-civicactions/nsftraining/edit/main/nsftraining-product.css"
+-->
+
 # Welcome
 This is the start of a Liascript course on orienting NSF.gov staff to the NSF.gov website, it's features, and how it works.
 
@@ -18,16 +24,12 @@ Each course slide should consider discussing
 # Embedding Multimedia
 Liascript really likes .webm or .mp4 formatted videos. Haven't quite figured out how to retrieve external files yet.
 
-Directly uploaded file to shared workspace. Video is store in a local browser, and won't be seen by other users. This feature allows designers to quickly view media when initially assembling a course:
-
-!?[](85cdde244a43043233399bd3a0ece8a4791208b5.webm)
-
 <!-- style= "background-color: tomato; padding: 10px;"-->
-File added to a google drive:
+File called from YouTube:
 
 !?[Emperor](https://youtu.be/JX6btxoFhI8?si=xYOChAw2R2QU1-yG)
 
-<!-- style= "background-color: blue; padding: 10px;"-->
+<!-- style= "background-color: tomato; padding: 10px;"-->
 __ Why isn't this working? __
 
 Because liascript really wants streaming files to be served from a CDN or streaming server.
