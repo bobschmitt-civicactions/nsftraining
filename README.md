@@ -4,9 +4,8 @@ Updated: 3/16/2026
 Language: en
 icon:     nsflogo100px.jpg
 link: nsftraining-product.css
+link: https://cdn.jsdelivr.net/gh/bobschmitt-civicactions/nsftraining/nsftraining-product.css
 -->
-
---{{0}}--
 
 # Welcome
 This is the start of a Liascript course on orienting NSF.gov staff to the NSF.gov website, it's features, and how it works. Liascript courses use markdown commands combined with tags (accessed via the icons in the editor above) to things like embed multimedia elements, add quizes, graphs, spreadsheets and custom applications.
@@ -28,8 +27,9 @@ Liascript really likes .webm or .mp4 formatted videos. Haven't quite figured out
 
 <!-- style= "background-color: tomato; padding: 10px;"-->
 
-File stored in my local git repo:
-!?[NSF Sample](/media/nsfsample.webm)
+Video stored in git repo, loaded onto jsdeliver.com CDN:
+
+!?[Sample]([https://youtu.be/JX6btxoFhI8?si=xYOChAw2R2QU1-yG](https://cdn.jsdelivr.net/gh/bobschmitt-civicactions/nsftraining/media/nsfsample.webm)
 
 <!-- style= "background-color: tomato; padding: 10px;"-->
 File called from YouTube:
