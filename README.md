@@ -29,7 +29,7 @@ Liascript really likes .webm or .mp4 formatted videos. Haven't quite figured out
 
 Video stored in git repo, loaded onto jsdeliver.com CDN:
 
-!?[Sample]([https://youtu.be/JX6btxoFhI8?si=xYOChAw2R2QU1-yG](https://cdn.jsdelivr.net/gh/bobschmitt-civicactions/nsftraining/media/nsfsample.webm)]
+!?[Sample](https://youtu.be/JX6btxoFhI8?si=xYOChAw2R2QU1-yG](https://cdn.jsdelivr.net/gh/bobschmitt-civicactions/nsftraining/media/nsfsample.webm)
 
 <!-- style= "background-color: tomato; padding: 10px;"-->
 File called from YouTube:
