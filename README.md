@@ -1,7 +1,9 @@
 <!-- 
 Author: Bob Schmitt
 Updated: 3/16/2026
-link: "https://github.com/bobschmitt-civicactions/nsftraining/blob/main/nsftraining-product.css"
+Language: en
+icon:     nsflogo100px.jpeg
+link: https://github.com/bobschmitt-civicactions/nsftraining/blob/main/nsftraining-product.css
 -->
 
 # Welcome
